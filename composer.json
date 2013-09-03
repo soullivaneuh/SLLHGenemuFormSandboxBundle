@@ -1,6 +1,6 @@
 {
-	"name": "sllh/genemu-form-sandbox-bundle",
-	"type": "symfony-bundle",
+    "name": "sllh/genemu-form-sandbox-bundle",
+    "type": "symfony-bundle",
     "description": "Symfony sandbox for GenemuFormBundle",
     "keywords": ["form", "sandbox", "extra form", "javascript", "template"],
     "homepage": "https://github.com/Soullivaneuh/SLLHGenemuFormSandboxBundle",
@@ -13,11 +13,11 @@
         }
     ],
     "require": {
-    	"genemu/form-bundle": "~2.1"
+        "genemu/form-bundle": "~2.1"
     },
     "autoload": {
         "psr-0": {
-        	"SLLH\\Bundle\\GenemuFormSandboxBundle": ""
+            "SLLH\\Bundle\\GenemuFormSandboxBundle": ""
         }
     },
     "minimum-stability": "dev",
